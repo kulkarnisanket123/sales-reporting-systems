@@ -1,4 +1,4 @@
-# sales-reporting-system
+# sales-reporting-systems
 Sales Reporting System Using HTML, CSS, JAVA SCRIPT, Python.
 The Sales Reporting System is designed to allow users to efficiently record and manage
 invoices, receipts, and payments. It provides functionalities to track client information, dates,
@@ -7,7 +7,7 @@ and financial transactions related to sales.
 Features
 1. Invoice Recording:
 2. Receipt Recording:
-3. Receipt Recording
+3. Payment Recording:
 
 
 Functionalities:
